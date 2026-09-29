@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-label="Automotive Sparepart E-Commerce preview">
+  <defs>
+    <linearGradient id="abg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1C1917"/>
+      <stop offset="100%" stop-color="#292524"/>
+    </linearGradient>
+    <linearGradient id="aac" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#EF4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#abg)"/>
+  <circle cx="1050" cy="150" r="190" fill="#F97316" opacity="0.12"/>
+  <circle cx="120" cy="640" r="220" fill="#EF4444" opacity="0.12"/>
+  <rect x="80" y="60" width="1040" height="80" rx="18" fill="#292524" stroke="#44403C"/>
+  <path d="M120 100 L160 100 L170 116 L150 116 L120 100 Z" fill="#F97316"/>
+  <rect x="230" y="86" width="420" height="24" rx="12" fill="#44403C"/>
+  <rect x="880" y="78" width="160" height="44" rx="22" fill="url(#aac)"/>
+  <text x="960" y="107" font-family="Poppins, Inter, Arial, sans-serif" font-size="20" font-weight="600" fill="#fff" text-anchor="middle">Browse Parts</text>
+  <rect x="80" y="190" width="340" height="260" rx="22" fill="#292524" stroke="#44403C"/>
+  <circle cx="250" cy="300" r="70" fill="none" stroke="#57534E" stroke-width="16"/>
+  <circle cx="250" cy="300" r="40" fill="#44403C"/>
+  <rect x="110" y="405" width="280" height="18" rx="9" fill="#57534E"/>
+  <rect x="110" y="310" width="80" height="12" rx="6" fill="#F97316"/>
+  <rect x="460" y="190" width="340" height="260" rx="22" fill="#292524" stroke="#44403C"/>
+  <rect x="500" y="260" width="260" height="60" rx="12" fill="#44403C"/>
+  <rect x="500" y="350" width="160" height="18" rx="9" fill="#57534E"/>
+  <rect x="500" y="265" width="40" height="18" rx="9" fill="#F97316"/>
+  <rect x="840" y="190" width="280" height="260" rx="22" fill="url(#aac)"/>
+  <text x="980" y="280" font-family="Poppins, Inter, Arial, sans-serif" font-size="32" font-weight="700" fill="#fff" text-anchor="middle">Autoparts</text>
+  <text x="980" y="320" font-family="Poppins, Inter, Arial, sans-serif" font-size="20" fill="#FFEDD5" text-anchor="middle">E-Commerce Store</text>
+  <rect x="880" y="360" width="200" height="46" rx="23" fill="#fff" opacity="0.92"/>
+  <text x="980" y="390" font-family="Poppins, Inter, Arial, sans-serif" font-size="20" font-weight="600" fill="#C2410C" text-anchor="middle">Shop Spareparts</text>
+  <rect x="80" y="500" width="1040" height="170" rx="22" fill="#292524" stroke="#44403C"/>
+  <rect x="115" y="535" width="200" height="18" rx="9" fill="#57534E"/>
+  <rect x="115" y="575" width="420" height="14" rx="7" fill="#44403C"/>
+  <rect x="115" y="605" width="360" height="14" rx="7" fill="#44403C"/>
+  <rect x="880" y="530" width="170" height="110" rx="18" fill="url(#aac)"/>
+  <text x="965" y="572" font-family="Poppins, Inter, Arial, sans-serif" font-size="38" font-weight="700" fill="#fff" text-anchor="middle">1.2K+</text>
+  <text x="965" y="604" font-family="Poppins, Inter, Arial, sans-serif" font-size="18" fill="#FFEDD5" text-anchor="middle">Products</text>
+</svg>
